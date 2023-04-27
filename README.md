@@ -1,5 +1,5 @@
 # Good morning folks , 
-# Our teamates went for interviews , got this scenario questions. 
+# Our teamate went for interviews , got this scenario questions. 
 # Can we help , to better undersatand these questions tonight. 
 #####################################################>>
 # 1 Suppose the email in your enviroment has failed, how will you go about troubleshooting it and fixing it
